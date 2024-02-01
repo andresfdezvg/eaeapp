@@ -11,7 +11,7 @@ def lambda_handler(event, context):
     db_host  = ''
     db_name = ''
     db_user = 'admin'
-    db_password = 'secret01'
+    db_password = '12345678'
     db_table = 'salaries'
 
     # S3 settings
